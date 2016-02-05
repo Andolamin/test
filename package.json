@@ -1,28 +1,31 @@
 {
-    "name": "enyo-bootplate",
-    "description": "An Enyo-based self contained template to build web applications using HTML, CSS and JavaScript.",
-    "version": "2.6.0-dev",
-    "main": "index.js",
-    "assets": [
-    	"icon.png",
-        "assets/*"
-    ],
-    "styles": [
-        "src/style/*.less"
-    ],
-    "homepage": "http://enyojs.com/",
-    "bugs": "http://jira.enyojs.com/",
-    "maintainers": [
-        {
-            "name": "Enyo JS Framework Team",
-            "web": "http://enyojs.com/"
-        }
-    ],
-    "licenses": [
-        {
-            "type": "Apache-2.0",
-            "url": "http://www.apache.org/licenses/LICENSE-2.0"
-        }
-    ],
-    "dependencies": {}
+  "name": "enyo-bootplate",
+  "assets": [
+    "appinfo.json",
+    "icon.png",
+    "assets/*"
+  ],
+  "devAssets": [],
+  "styles": [
+    "src/style/*.less"
+  ],
+  "main": "index.js",
+  "moduleDir": "src",
+  "description": "An Enyo-based self contained template to build web applications using HTML, CSS and JavaScript.",
+  "version": "0.0.4",
+  "homepage": "http://enyojs.com/",
+  "bugs": "http://jira.enyojs.com/",
+  "maintainers": [
+    {
+      "name": "Enyo JS Framework Team",
+      "web": "http://enyojs.com/"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {}
 }

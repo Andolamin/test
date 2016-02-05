@@ -1,0 +1,11 @@
+{
+    "id": "com.alanstice.test",
+    "version": "0.0.4",
+    "vendor": "Alan Stice",
+    "type": "web",
+    "main": "index.html",
+    "icon": "icon.png",
+    "uiRevision": 2,
+    "removable": true
+}
+
