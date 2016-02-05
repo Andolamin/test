@@ -12,7 +12,7 @@
   "main": "index.js",
   "moduleDir": "src",
   "description": "An Enyo-based self contained template to build web applications using HTML, CSS and JavaScript.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "http://enyojs.com/",
   "bugs": "http://jira.enyojs.com/",
   "maintainers": [
